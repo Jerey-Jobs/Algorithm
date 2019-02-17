@@ -6,5 +6,4 @@
 因此,算法的学习是很有必要的
 
 ---
-1. [编辑距离-LD](
-https://github.com/Jerey-Jobs/Algorithm/blob/master/%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB-LD.md)
+- [编辑距离-LD](%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB-LD.md)
